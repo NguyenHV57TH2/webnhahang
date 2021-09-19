@@ -41,6 +41,7 @@ article .new_list .new_item{
     padding: 2%;
     float: left;
     border: 2px solid #ccc;
+    border-radius: 30px;
   
 }
 footer .h1{
